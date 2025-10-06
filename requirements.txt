@@ -1,6 +1,7 @@
+moviepy==1.0.3
+imageio[ffmpeg]
+imageio-ffmpeg
 requests
 openai
-moviepy
 pillow
-imageio-ffmpeg
 python-dotenv
